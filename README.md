@@ -1,24 +1,6 @@
 # README
+This will be a movie review app built in Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Goals:
+A user can rate a movie on a 1 - 5 star system
+A user or visitor has the ability to search for a particular movie.
